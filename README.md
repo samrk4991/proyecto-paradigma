@@ -1,0 +1,2 @@
+# proyecto-paradigma
+proyecto
